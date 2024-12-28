@@ -1,0 +1,16 @@
+{
+  "name": "luogudesktop",
+  "version": "1.0.0",
+  "description": "Luogu Desktop Version",
+  "license": "MIT",
+  "author": "Kevin",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
